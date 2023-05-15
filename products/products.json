@@ -1,0 +1,635 @@
+{
+    "products": [
+        {
+            "id": "1", 
+            "title": "Phones & Tablets", 
+            "url": "./img/prod1.png", 
+            "category": "phones", 
+            "group": "1"
+        },
+        {
+            "id": "2", 
+            "title": "Refridgerators", 
+            "url": "./img/prod2.jpg", 
+            "category": "electronics", 
+            "group": "1"
+        },
+        {
+            "id": "3", 
+            "title": "Electronics", 
+            "url": "./img/prod3.png", 
+            "category": "electronics", 
+            "group": "1"
+        },
+        {
+            "id": "4", 
+            "title": "Televisions", 
+            "url": "./img/prod4.jpg", 
+            "category": "electronics", 
+            "group": "1"
+        },
+        {
+            "id": "5", 
+            "title": "Groceries", 
+            "url": "./img/prod5.png", 
+            "category": "groceries", 
+            "group": "1"
+        },
+        {
+            "id": "6", 
+            "title": "Men's Sneakers", 
+            "url": "./img/prod6.png", 
+            "category": "fashion", 
+            "group": "1"
+        },
+        {
+            "id": "7", 
+            "title": "Best Sellers", 
+            "url": "./img/prod7.png", 
+            "category": "best sellers", 
+            "group": "1"
+        },
+        {
+            "id": "8", 
+            "title": "Health & Beauty", 
+            "url": "./img/prod8.png", 
+            "category": "cosmetics", 
+            "group": "1"
+        },
+        {
+            "id": "9", 
+            "title": "Wrist Watches", 
+            "url": "./img/prod9.png", 
+            "category": "wrist watches", 
+            "group": "1"
+        },
+        {
+            "id": "10", 
+            "title": "Phone Accessories", 
+            "url": "./img/prod10.png", 
+            "category": "mobile accessories", 
+            "group": "1"
+        },
+        {
+            "id": "11", 
+            "title": "Fans", 
+            "url": "./img/prod11.jpg", 
+            "category": "electronics", 
+            "group": "1"
+        },
+        {
+            "id": "12", 
+            "title": "Power Banks", 
+            "url": "./img/prod12.png", 
+            "category": "mobile accessories", 
+            "group": "1"
+        },
+        {
+            "id": "13", 
+            "title": "T-shirts + Shorts 100% Cotton", 
+            "url": "./img/sec1.jpg", 
+            "category": "fashion", 
+            "group": "2",
+            "price": "4,900",
+            "prevPrice": "9,000"
+        },
+        {
+            "id": "14", 
+            "title": "Edifier M206BT 68Watts", 
+            "url": "./img/sec2.jpg", 
+            "category": "electronics", 
+            "group": "2",
+            "price": "31,440",
+            "prevPrice": "50,446"
+        },
+        {
+            "id": "15", 
+            "title": "2 In One Men's Short", 
+            "url": "./img/sec3.jpg", 
+            "category": "fashion", 
+            "group": "2",
+            "price": "3,000",
+            "prevPrice": "6,644"
+        },
+        {
+            "id": "16", 
+            "title": "EILIFINTE B06 Casual Cr", 
+            "url": "./img/sec4.jpg", 
+            "category": "fashion", 
+            "group": "2",
+            "price": "1,500",
+            "prevPrice": "6,680"
+        },
+        {
+            "id": "17", 
+            "title": "Feng Shui Black Obsidian", 
+            "url": "./img/sec5.jpg", 
+            "category": "fashion", 
+            "group": "2",
+            "price": "839",
+            "prevPrice": "850"
+        },
+        {
+            "id": "18", 
+            "title": "Anti Blue Rays, Anti Black", 
+            "url": "./img/sec6.jpg", 
+            "category": "fashion", 
+            "group": "2",
+            "price": "3,399",
+            "prevPrice": "7,600"
+        },
+        {
+            "id": "19", 
+            "title": "Socks Set of 6 Multicolor", 
+            "url": "./img/flash1.jpg", 
+            "category": "fashion", 
+            "group": "3",
+            "price": "1,100",
+            "prevPrice": "6,800",
+            "qty": "1",
+            "percentage": "-84%"
+        },
+        {
+            "id": "20", 
+            "title": "Lenovo Thinkplus X16 BT", 
+            "url": "./img/flash2.jpg", 
+            "category": "mobile accessories", 
+            "group": "3",
+            "price": "6,300",
+            "prevPrice": "9,594",
+            "qty": "18",
+            "percentage": "-34%"
+        },
+        {
+            "id": "21", 
+            "title": "Itel 10000MAh Star 100 F", 
+            "url": "./img/flash3.jpg", 
+            "category": "phones", 
+            "group": "3",
+            "price": "5,300",
+            "prevPrice": "7,500",
+            "qty": "39",
+            "percentage": "-29%"
+        },
+        {
+            "id": "22", 
+            "title": "Tecno POP 7 6.6\"-2/64", 
+            "url": "./img/flash4.jpg", 
+            "category": "phones", 
+            "group": "3",
+            "price": "55,300",
+            "prevPrice": "70,800",
+            "qty": "19",
+            "percentage": "-22%"
+        },
+        {
+            "id": "23", 
+            "title": "Dettol Soap Pink Glow 6...", 
+            "url": "./img/flash5.jpg", 
+            "category": "cosmetics", 
+            "group": "3",
+            "price": "1,095",
+            "prevPrice": "1,215",
+            "qty": "27",
+            "percentage": "-10%"
+        },
+        {
+            "id": "24", 
+            "title": "NIVEA Pearl & Beauty Anti", 
+            "url": "./img/flash6.jpg", 
+            "category": "cosmetics", 
+            "group": "3",
+            "price": "2,985",
+            "prevPrice": "3,400",
+            "qty": "40",
+            "percentage": "-12%"
+        },
+        {
+            "id": "25", 
+            "title": "WEYON 22 Inches LED TV", 
+            "url": "./img/limited-1.jpg", 
+            "category": "electronics", 
+            "group": "4",
+            "price": "43,999",
+            "prevPrice": "86,255",
+            "qty": "",
+            "percentage": "-49%"
+        },
+        {
+            "id": "26", 
+            "title": "ADIDAS Core Sneakers Adidas", 
+            "url": "./img/limited-2.jpg", 
+            "category": "fashion", 
+            "group": "4",
+            "price": "33,323",
+            "prevPrice": "66,645",
+            "qty": "",
+            "percentage": "-50%"
+        },
+        {
+            "id": "27", 
+            "title": "Men's Lace Up Canvas Shinny", 
+            "url": "./img/limited-3.jpg", 
+            "category": "fashion", 
+            "group": "4",
+            "price": "5,990",
+            "prevPrice": "11,424",
+            "qty": "",
+            "percentage": "-48%"
+        },
+        {
+            "id": "28", 
+            "title": "EDIFIER TWSNB2 Wireless", 
+            "url": "./img/limited-4.jpg", 
+            "category": "fashion", 
+            "group": "4",
+            "price": "35,737",
+            "prevPrice": "57,315",
+            "qty": "",
+            "percentage": "-38%"
+        },
+        {
+            "id": "29", 
+            "title": "4 In 1 Women's Bag Brown", 
+            "url": "./img/limited-7.jpg", 
+            "category": "fashion", 
+            "group": "4",
+            "price": "6,290",
+            "prevPrice": "19,000",
+            "qty": "",
+            "percentage": "-67%"
+        },
+        {
+            "id": "30", 
+            "title": "Oraimo OPB-P118D 10000MAh", 
+            "url": "./img/limited-10.jpg", 
+            "category": "mobile accessories", 
+            "group": "4",
+            "price": "9,010",
+            "prevPrice": "24,000",
+            "qty": "",
+            "percentage": "-62%"
+        },
+        {
+            "id": "31", 
+            "title": "Today Only", 
+            "url": "./img/1.jpg", 
+            "category": "sales advert", 
+            "group": "5"            
+        },
+        {
+            "id": "32", 
+            "title": "Jumia Food", 
+            "url": "./img/2.png", 
+            "category": "sales advert", 
+            "group": "5"            
+        },
+        {
+            "id": "33", 
+            "title": "50% off and more", 
+            "url": "./img/3.png", 
+            "category": "sales advert", 
+            "group": "5"            
+        },
+        {
+            "id": "34", 
+            "title": "50% off and more", 
+            "url": "./img/4.png", 
+            "category": "sales advert", 
+            "group": "5"            
+        },
+        {
+            "id": "35", 
+            "title": "Delivery in 30 Minutes", 
+            "url": "./img/5.png", 
+            "category": "sales advert", 
+            "group": "5"            
+        },
+        {
+            "id": "36", 
+            "title": "Official Store", 
+            "url": "./img/6.jpg", 
+            "category": "sales advert", 
+            "group": "5"            
+        },
+        {
+            "id": "37", 
+            "title": "Infinix Smart 7 HD 2GB RAM", 
+            "url": "./img/official-1.jpg", 
+            "category": "phones", 
+            "group": "6",
+            "price": "60,300",
+            "prevPrice": "75,000",
+            "qty": "",
+            "percentage": "-20%",
+            "brand": "infinix"
+        },
+        {
+            "id": "38", 
+            "title": "Guinness Malta Can 330Cl", 
+            "url": "./img/official-2.jpg", 
+            "category": "food", 
+            "group": "6",
+            "price": "4,998",
+            "prevPrice": "5,100",
+            "qty": "",
+            "percentage": "-2%",
+            "brand": "Guinness"
+        },
+        {
+            "id": "39", 
+            "title": "XIAOMI A1 Plus 6.52\" 4GB RAM", 
+            "url": "./img/official-3.jpg", 
+            "category": "phones", 
+            "group": "6",
+            "price": "51,754",
+            "prevPrice": "61,000",
+            "qty": "",
+            "percentage": "-15%",
+            "brand": "xiaomi"
+        },
+        {
+            "id": "40", 
+            "title": "Silver Crest 5000W/6000W", 
+            "url": "./img/official-4.jpg", 
+            "category": "electronics", 
+            "group": "6",
+            "price": "16,990",
+            "prevPrice": "18,990",
+            "qty": "",
+            "percentage": "-11%",
+            "brand": "silver crest"
+        },
+        {
+            "id": "41", 
+            "title": "LG AUD 45CJ - 720W XB", 
+            "url": "./img/official-5.jpg", 
+            "category": "electronics", 
+            "group": "6",
+            "price": "165,186",
+            "prevPrice": "",
+            "qty": "",
+            "percentage": "",
+            "brand": "LG"
+        },
+        {
+            "id": "42", 
+            "title": "Oraimo Audio Accessories", 
+            "url": "./img/official-6.jpg", 
+            "category": "mobile accessories", 
+            "group": "6",
+            "price": "10,825",
+            "prevPrice": "12,720",
+            "qty": "",
+            "percentage": "",
+            "brand": "Oraimo"
+        },
+        {
+            "id": "43", 
+            "title": "EDIFIER Headphones", 
+            "url": "./img/large-1.jpg", 
+            "category": "mobile accessories", 
+            "group": "7",
+            "price": "18,825",
+            "prevPrice": "22,850",
+            "qty": "",
+            "percentage": "",
+            "brand": "edifier"
+        },
+        {
+            "id": "44", 
+            "title": "Scanfrost 43 Litres Inox Freezer", 
+            "url": "./img/large-2.jpg", 
+            "category": "electronics", 
+            "group": "7",
+            "price": "65,500",
+            "prevPrice": "70,200",
+            "qty": "",
+            "percentage": "-4%",
+            "brand": "scanfrost"
+        },
+        {
+            "id": "45", 
+            "title": "LG 280 Litres Chest Freezer", 
+            "url": "./img/large-3.jpg", 
+            "category": "electronics", 
+            "group": "7",
+            "price": "271,620",
+            "prevPrice": "316,818",
+            "qty": "",
+            "percentage": "-14%",
+            "brand": "LG"
+        },
+        {
+            "id": "46", 
+            "title": "WEYON 32 Inches LED TV", 
+            "url": "./img/large-4.jpg", 
+            "category": "electronics", 
+            "group": "7",
+            "price": "56,500",
+            "prevPrice": "",
+            "qty": "",
+            "percentage": "-14%",
+            "brand": "LG"
+        },
+        {
+            "id": "47", 
+            "title": "LG 2 In 1 Washer (12Kg)", 
+            "url": "./img/large-4.jpg", 
+            "category": "electronics", 
+            "group": "7",
+            "price": "535,000",
+            "prevPrice": "640,624",
+            "qty": "",
+            "percentage": "-16%",
+            "brand": "LG"
+        },
+        {
+            "id": "48", 
+            "title": "Pinnacle 600W 4 In 1 Blender", 
+            "url": "./img/large-6.jpg", 
+            "category": "electronics", 
+            "group": "7",
+            "price": "535,000",
+            "prevPrice": "640,624",
+            "qty": "",
+            "percentage": "-16%",
+            "brand": "LG"
+        },
+        {
+            "id": "49", 
+            "title": "Phones & Tablets", 
+            "url": "./img/collections-1.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "50", 
+            "title": "Home & Office", 
+            "url": "./img/collections-2.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "51", 
+            "title": "Health & Beauty", 
+            "url": "./img/collections-3.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "52", 
+            "title": "Groceries", 
+            "url": "./img/collections-4.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "53", 
+            "title": "Groceries", 
+            "url": "./img/collections-5.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "54", 
+            "title": "Electronics", 
+            "url": "./img/collections-6.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "55", 
+            "title": "Fashion", 
+            "url": "./img/collections-7.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "56", 
+            "title": "Video Games", 
+            "url": "./img/collections-8.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "57", 
+            "title": "Mobile Accessories", 
+            "url": "./img/collections-9.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "58", 
+            "title": "Half Price Store", 
+            "url": "./img/collections-9.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "59", 
+            "title": "Computing", 
+            "url": "./img/collections-10.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "60", 
+            "title": "Portable Power", 
+            "url": "./img/collections-11.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "61", 
+            "title": "iPhones & iOS Devices", 
+            "url": "./img/collections-12.png", 
+            "category": "collections", 
+            "group": "8"            
+        },
+        {
+            "id": "62", 
+            "title": "Laptops", 
+            "url": "./img/back-to-school-1.png", 
+            "category": "back-to-school", 
+            "group": "9"            
+        },
+        {
+            "id": "63", 
+            "title": "Smart Phones", 
+            "url": "./img/back-to-school-2.png", 
+            "category": "back-to-school", 
+            "group": "9"            
+        },
+        {
+            "id": "64", 
+            "title": "Water Bottles", 
+            "url": "./img/back-to-school-3.png", 
+            "category": "back-to-school", 
+            "group": "9"            
+        },
+        {
+            "id": "65", 
+            "title": "Backpack", 
+            "url": "./img/back-to-school-4.png", 
+            "category": "back-to-school", 
+            "group": "9"            
+        },
+        {
+            "id": "66", 
+            "title": "Lunchbox", 
+            "url": "./img/back-to-school-5.png", 
+            "category": "back-to-school", 
+            "group": "9"            
+        },
+        {
+            "id": "67", 
+            "title": "Mobile Accessories", 
+            "url": "./img/back-to-school-6.png", 
+            "category": "back-to-school", 
+            "group": "9"            
+        },
+        {
+            "id": "68", 
+            "title": "Below #15,000", 
+            "url": "./img/phone-1.jpg", 
+            "category": "accessories", 
+            "group": "10"            
+        },
+        {
+            "id": "69", 
+            "title": "Below #80,000", 
+            "url": "./img/phone-2.png", 
+            "category": "accessories", 
+            "group": "10"            
+        },
+        {
+            "id": "70", 
+            "title": "Below #200,000", 
+            "url": "./img/phone-3.png", 
+            "category": "accessories", 
+            "group": "10"            
+        },
+        {
+            "id": "71", 
+            "title": "Below #80,000", 
+            "url": "./img/phone-4.png", 
+            "category": "accessories", 
+            "group": "10"            
+        },
+        {
+            "id": "72", 
+            "title": "Below #80,000", 
+            "url": "./img/phone-5.png", 
+            "category": "accessories", 
+            "group": "10"            
+        },
+        {
+            "id": "73", 
+            "title": "Below #300,000", 
+            "url": "./img/phone-6.png", 
+            "category": "accessories", 
+            "group": "10"            
+        }
+    ]
+}
